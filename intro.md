@@ -14,13 +14,12 @@ OS, or at least to understand how it is typically installed for normal use, but
 I will attempt to glaze over these details (at first) in order to teach you
 fundamentals. Here it is important to understand: nothing is immutable. I will
 make many choices for you (OS, init, shell, editor, pager, etc.) but none of
-these choices (except perhaps the kernel, Linux, as far as we are concerned in
-this book) is without alternative. These alternatives make "Linux" such a joy
-to use: if you are dissatisfied with an aspect of the system, you are almost
-always free to change it, often with minimal effort.
+these choices is without alternative. These alternatives make Linux such a
+joy to use: if you are dissatisfied with an aspect of the system, you are
+almost always free to change it, often with minimal effort.
 
 If you are beginning to panic that you do not yet know these terms, don't: all
-of the things I have mentioned so far, even the generic term "Operating System"
+of the things I have mentioned so far, even the generic term *Operating System*
 will be elucidated in time.
 
 It is difficult to find a starting point for learning Linux concepts. Many
